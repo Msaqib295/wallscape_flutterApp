@@ -1,5 +1,10 @@
 
 # 🌄 Wallscape – Flutter Wallpaper App
+![License](https://img.shields.io/github/license/Msaqib295/wallscape_flutterApp)
+![Platform](https://img.shields.io/badge/platform-Android-blue)
+![Flutter](https://img.shields.io/badge/built%20with-Flutter-blueviolet)
+![Last Commit](https://img.shields.io/github/last-commit/Msaqib295/wallscape_flutterApp)
+
 
 Welcome to **Wallscape**, a sleek and modern wallpaper app built with Flutter. Whether you're looking to spice up your home screen or lock screen, Wallscape makes it effortless with high-resolution images, an intuitive UI, and smooth performance.
 
